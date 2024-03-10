@@ -8,7 +8,7 @@ skills, enabling me to effectively communicate with a wide range of people
 
 Skills: Dart / Flutter / Firebase / Rest API / GetX / Google Map / CP
 
-- 🔭 I’m currently working on IT Scholar BD 
+- 🔭 I’m currently working at IT Scholar BD 
 - 🌱 I’m currently learning Node JS Banckend 
 - 💬 Ask me about Flutter Development 
 - 📫 How to reach me: parvej4532@gmail.com 
