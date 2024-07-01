@@ -9,7 +9,7 @@ skills, enabling me to effectively communicate with a wide range of people
 Skills: Dart / Flutter / Odoo/ Developing APIs/ Firebase / Rest API / GetX / Google Map / MapBox/ CP
 
 - 🔭 I’m currently working at IT Scholar BD 
-- 🌱 I’m currently Odoo backend and developing APIs
+- 🌱 I’m currently learning Laravel and PHP backend developing APIs
 - 💬 Ask me about Flutter Development 
 - 📫 How to reach me: parvej4532@gmail.com 
 
