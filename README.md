@@ -6,7 +6,7 @@ I am a hardworking and ambitious individual passionate about programming and pro
 skills, enabling me to effectively communicate with a wide range of people
 
 
-Skills: Dart / Flutter / Odoo/ Developing APIs/ Firebase / Rest API / GetX / Google Map / MapBox/ CP
+Skills: Dart / Flutter / PHP/ Laravel/ Odoo/ Developing APIs/ Firebase / Rest API / GetX / Google Map / MapBox/ CP
 
 - 🔭 I’m currently working at IT Scholar BD 
 - 🌱 I’m currently learning Laravel and PHP backend developing APIs
