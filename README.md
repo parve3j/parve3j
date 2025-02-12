@@ -8,7 +8,7 @@ skills, enabling me to communicate with a wide range of people effectively
 
 Skills: Dart / Flutter / PHP/ Laravel/ Push notification / Developing APIs/ Firebase / Rest API / GetX / Google Map / MapBox/ CP
 
-- 🔭 I’m currently working at Apptriangle  
+- 🔭 I’m currently working at Bdcalling (Spark Tech Agency)  
 - 🌱 I’m currently learning Advance Flutter, Laravel and PHP backend developing APIs
 - 💬 Ask me about Flutter Development 
 - 📫 How to reach me: parvej4532@gmail.com 
